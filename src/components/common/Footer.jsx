@@ -15,17 +15,17 @@ const Footer = () => {
           </Link>
 
           <ul className="col-12 col-md-3 list-unstyled mt-2">
-            <li className="m-2 fs-2">¿Consultas?</li>
+            <li className="m-2 ">¿Consultas?</li>
             <li>
-              <i className="bi bi-telephone-fill fs-2"> 381-333-444</i>
+              <i className="bi bi-telephone-fill "> 381-333-444</i>
             </li>
           </ul>
           <ul className="col-12 col-md-3 list-unstyled mapa-container mt-2">
-          <li className="m-2 fs-2">
+          <li className="m-2">
           <a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11974.67173453499!2d-65.20629367805485!3d-26.837051223343718!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94225d3ad7f30f1d%3A0xf8606cd659b8e3e4!2sRollingCode%20School!5e0!3m2!1ses-419!2sar!4v1689981629175!5m2!1ses-419!2sar" target="_blank"  className='link'>Encontranos en Gral. Paz 576 Tucumán</a></li>
           </ul>
           <ul className="col-12 col-md-3 list-unstyled mt-2">
-            <li className="mb-2 fs-2">Seguinos en nuestras redes:</li>
+            <li className="mb-2 ">Seguinos en nuestras redes:</li>
             <li className="d-flex justify-content-between">
               <a href="https://facebook.com" target="_blank">
                 <i className="bi bi-facebook"></i>
